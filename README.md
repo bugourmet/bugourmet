@@ -9,5 +9,5 @@
 </a>
 
 <a href="https://github.com/bugourmet/tgsint-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bugourmet&repo=tgsint-api&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bugourmet&repo=infobip-sender&theme=github_dark"/>
 </a>
